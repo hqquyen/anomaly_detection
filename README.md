@@ -23,12 +23,12 @@ Your dataset folder should be saved as the structure belows:
             ├──train
             │   ├── normal
             │   │       ├── normal_000001.png
-            │   │       ├── normal_000001.png
+            │   │       ├── normal_000002.png
             │   │       └── ...
             └───test
                 ├── normal
                 │       ├── normal_000001.png
-                │       ├── normal_000001.png
+                │       ├── normal_000002.png
                 │       └── ...
                 └─── anomaly
                         ├── anomaly_000001.png
