@@ -1,7 +1,7 @@
 # Image-Based Anomaly Detection Using Deep Learning
 
-![Alt text](code/results/object1.png)
-![Alt text](code/results/object2.png)
+![Alt text](results/object1.png)
+![Alt text](results/object2.png)
 
 ## Requirement
 - python == 3.7
