@@ -3,7 +3,7 @@
 ![Alt text](results/object1.png)
 ![Alt text](results/object2.png)
 
-## Requirement
+## Requirements
 - python == 3.7
 - pytorch == 1.5
 - tqdm
@@ -15,7 +15,7 @@ You can install the requirement by running:
 ```
 pip install -r requirement.txt
 ```
-## Dataset
+## Datasets
 Your dataset folder should be saved as the structure belows:
 ```
   data    
